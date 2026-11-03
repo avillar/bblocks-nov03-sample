@@ -1,5 +1,5 @@
 Validation report for ogc.bbr.template.mySchema - My Schema
-Generated 2026-11-03T10:53:28.385504+00:00
+Generated 2026-11-03T10:57:23.157821+00:00
 === Files ===
 Using example.json from examples
 JSON-LD context is present - uplifting
