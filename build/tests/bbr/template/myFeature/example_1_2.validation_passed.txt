@@ -1,5 +1,5 @@
 Validation report for ogc.bbr.template.myFeature - Custom Feature
-Generated 2026-11-03T11:04:52.038177+00:00
+Generated 2026-11-03T11:08:38.618911+00:00
 === Files ===
 Using example_1_2.yaml from examples
 === End Files ===
